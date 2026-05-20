@@ -15,10 +15,10 @@
 
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center">
-        <img src="orbitbits.png" width="840">
+        <img src="orbitbits.png" width="540">
       </td>
     </tr>
   </table>
