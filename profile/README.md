@@ -1,5 +1,5 @@
 <!-- README.md -->
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td align="center">
@@ -11,18 +11,31 @@
       </td>
     </tr>
   </table>
+</div> -->
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="orbitbits.png" width="840">
+      </td>
+    </tr>
+  </table>
 </div>
 
 **Founded:** May 18, 2026 &nbsp;|&nbsp;
 **Type:** Organization &nbsp;|&nbsp;
-**Area:** Technology &nbsp;|&nbsp;
-**Licenses:** GPL v3 / ELv2 / Proprietary
+**Area:** Technology / Development / Software
+
 
 ### Channels
-- 🌐 **Website:** orbitbits.com
-- 🐙 **GitHub:** github.com/orbitbits
-- 𝕏 **X (Twitter):** @orbitbits
-- 📺 **YouTube:** @orbitbits
+
+- 🌐 **Website:** [orbitbits.com](https://orbitbits.com)
+- 🐙 **GitHub:**  [@orbitbits](https://github.com/orbitbits) 
+- 📺 **YouTube:** [@orbitbitshq](https://youtube.com/@orbitbitshq)
+- 🦋 **Bluesky:** [@orbitbits](orbitbits.bsky.social)
+<!-- - 𝕏 **X:**   [@orbitbitshq](https://x.com/orbitbitshq) -->
 
 ---
-*orbitbits · 2026*
+*© OrbitBits · 2026*
