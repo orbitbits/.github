@@ -32,7 +32,7 @@
 ### Channels
 
 - 🌐 **Website:** [orbitbits.com](https://orbitbits.com)
-- 🐙 **GitHub:**  [@orbitbits](https://github.com/orbitbits) 
+- 🐙 **GitHub:**  [@orbitbits](https://github.com/orbitbits)
 <!-- - 📺 **YouTube:** [@orbitbitshq](https://youtube.com/@orbitbitshq) -->
 - 🦋 **Bluesky:** [@orbitbits](https://orbitbits.bsky.social)
 <!-- - 𝕏 **X:**   [@orbitbitshq](https://x.com/orbitbitshq) -->
