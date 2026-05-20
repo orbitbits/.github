@@ -4,6 +4,8 @@
 BRANCH := $(shell git branch --show-current)
 .DEFAULT_GOAL := help
 
+PHONY: help commit push push-lease
+
 help:
 	@echo "Options:"
 	@echo
