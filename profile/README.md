@@ -15,13 +15,7 @@
 
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="orbitbits.png" width="540">
-      </td>
-    </tr>
-  </table>
+  <img src="orbitbits.png" width="540">
 </div>
 
 **Founded:** May 18, 2026 &nbsp;|&nbsp;
