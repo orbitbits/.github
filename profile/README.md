@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <img src="orbitbits.png" width="540">
+  <img src="https://raw.githubusercontent.com/orbitbits/orbitbits-logo/refs/heads/main/svg/orbitbits-banner.svg" width="540">
 </div>
 
 **Founded:** May 18, 2026 &nbsp;|&nbsp;
