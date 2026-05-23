@@ -26,7 +26,7 @@
 ### Channels
 
 - 🌐 **Website:** [orbitbits.com](https://orbitbits.com)
-- 🐙 **GitHub:**  [@orbitbits](https://github.com/orbitbits) <!-- - 📺 **YouTube:** [@orbitbitshq](https://youtube.com/@orbitbitshq) -->
+- 🦊 **GitLab:**  [@orbitbits](https://gitlab.com/orbitbits) <!-- - 📺 **YouTube:** [@orbitbitshq](https://youtube.com/@orbitbitshq) -->
 - 🦋 **Bluesky:** [@orbitbits.com](https://bsky.app/profile/orbitbits.com)
 <!-- - 𝕏 **X:**   [@orbitbitshq](https://x.com/orbitbitshq) -->
 
