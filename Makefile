@@ -27,10 +27,8 @@ push:
 	@echo "Push normal"
 	@git push origin $(BRANCH)
 	@git push hdd $(BRANCH)
-	@git push lab $(BRANCH)
 
 push-lease:
 	@echo "Push com --force-with-lease"
 	@git push --force-with-lease origin $(BRANCH)
 	@git push --force-with-lease hdd $(BRANCH)
-	@git push --force-with-lease lab $(BRANCH)
